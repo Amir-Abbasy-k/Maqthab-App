@@ -1,0 +1,23 @@
+                STUDENT     TUTOR
+- Register          *         *
+* Profile           
+- Search            *         *   
+* Rating
+- Classrooms        *         *
+* Messages
+* Chat
+- Calander          *         *
+- Update TimeSlote  *         *       
+- Otp               *         *
+
+
+
+
+
+teacher
+mob: 1642918397
+token: 1|f00RUotDI4xxCkR1u2arueRO83B6gbQi8ZWC9CRa
+
+student 
+mob: 1074574665
+token: 2|0fE3uqqtbyzw9F1fYBmFTm8k5WGR0mLn4ZIhFdgO
